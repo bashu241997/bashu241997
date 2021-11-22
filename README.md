@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bashu241997
+- 👀 I’m interested in Front end web Development 
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science
+- 📫 How to reach me p.baslass@gail.com
